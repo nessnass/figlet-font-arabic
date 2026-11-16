@@ -1,0 +1,817 @@
+flf2a$ 3 3 30 -1 6 1 0 126
+Font Name: Nessnass Arabic
+Font Author: Nessnass
+The Arabic letters of the Nessnass font, in single-line Unicode box-drawing characters.
+Three rows tall, right to left. Takes Arabic Presentation Forms-B: shape the text first.
+https://github.com/nessnass/figlet-font-arabic
+MIT License, Copyright (c) 2026 Nessnass
+$$@
+$$@
+$$@@
+╷@
+│@
+·@@
+╷╷@
+  @
+  @@
+─┼─┼─@
+─┼─┼─@
+     @@
+┌┼┐@
+└┼┐@
+└┼┘@@
+O╷@
+┌┘@
+╵O@@
+ ┌ @
+┌┼─@
+└┘ @@
+╷@
+ @
+ @@
+╭@
+│@
+╰@@
+╮@
+│@
+╯@@
+\│/@
+─ ─@
+/│\@@
+ ╷ @
+─┼─@
+ ╵ @@
+ @
+ @
+┘@@
+   @
+───@
+   @@
+ @
+ @
+·@@
+  ╱@
+   @
+╱  @@
+╭─╮@
+│╱│@
+╰─╯@@
+╶┐@
+ │@
+ ╵@@
+╭─╮@
+╭─┘@
+└─╴@@
+┌─┐@
+ ─┤@
+└─┘@@
+╷ ╷@
+└─┤@
+  ╵@@
+┌─╴@
+└─┐@
+└─┘@@
+┌─┐@
+├─┐@
+└─┘@@
+┌─┐@
+  │@
+  ╵@@
+╭─╮@
+├─┤@
+╰─╯@@
+┌─┐@
+└─┤@
+  ╵@@
+ @
+·@
+·@@
+ @
+·@
+┘@@
+ ╱@
+  @
+ ╲@@
+   @
+───@
+───@@
+╲ @
+  @
+╱ @@
+╭─╮@
+ ╭╯@
+ · @@
+╭─╮@
+│╰╯@
+╰──@@
+┌─┐@
+├─┤@
+╵ ╵@@
+┌─╮@
+├─┤@
+└─╯@@
+┌─┐@
+│  @
+└─┘@@
+┌─╮@
+│ │@
+└─╯@@
+┌─╴@
+├─ @
+└─╴@@
+┌─╴@
+├─ @
+╵  @@
+┌─┐@
+│ ┐@
+└─┘@@
+╷ ╷@
+├─┤@
+╵ ╵@@
+╷@
+│@
+╵@@
+  ╷@
+  │@
+└─┘@@
+╷┌─@
+├┴┐@
+╵ ╵@@
+╷  @
+│  @
+└─╴@@
+┌┬┐@
+│││@
+╵ ╵@@
+┌┐╷@
+│││@
+╵└┘@@
+┌─┐@
+│ │@
+└─┘@@
+┌─┐@
+├─┘@
+╵  @@
+┌─┐@
+│ │@
+└─┼@@
+┌─╮@
+├┬╯@
+╵└╴@@
+┌─┐@
+└─┐@
+└─┘@@
+─┬─@
+ │ @
+ ╵ @@
+╷ ╷@
+│ │@
+└─┘@@
+╶┐┌╴@
+ ││ @
+ └┘ @@
+╷ ╷@
+│││@
+└┴┘@@
+╶┐┌@
+┌┼┘@
+┘└╴@@
+╷ ╷@
+└┬┘@
+ ╵ @@
+╶─┐@
+┌─┘@
+└─╴@@
+┌─@
+│ @
+└─@@
+╲  @
+   @
+  ╲@@
+─┐@
+ │@
+─┘@@
+/\@
+  @
+  @@
+    @
+    @
+────@@
+┐@
+ @
+ @@
+┌─┐@
+├─┤@
+╵ ╵@@
+┌─╮@
+├─┤@
+└─╯@@
+┌─┐@
+│  @
+└─┘@@
+┌─╮@
+│ │@
+└─╯@@
+┌─╴@
+├─ @
+└─╴@@
+┌─╴@
+├─ @
+╵  @@
+┌─┐@
+│ ┐@
+└─┘@@
+╷ ╷@
+├─┤@
+╵ ╵@@
+╷@
+│@
+╵@@
+  ╷@
+  │@
+└─┘@@
+╷┌─@
+├┴┐@
+╵ ╵@@
+╷  @
+│  @
+└─╴@@
+┌┬┐@
+│││@
+╵ ╵@@
+┌┐╷@
+│││@
+╵└┘@@
+┌─┐@
+│ │@
+└─┘@@
+┌─┐@
+├─┘@
+╵  @@
+┌─┐@
+│ │@
+└─┼@@
+┌─╮@
+├┬╯@
+╵└╴@@
+┌─┐@
+└─┐@
+└─┘@@
+─┬─@
+ │ @
+ ╵ @@
+╷ ╷@
+│ │@
+└─┘@@
+╶┐┌╴@
+ ││ @
+ └┘ @@
+╷ ╷@
+│││@
+└┴┘@@
+╶┐┌@
+┌┼┘@
+┘└╴@@
+╷ ╷@
+└┬┘@
+ ╵ @@
+╶─┐@
+┌─┘@
+└─╴@@
+╭@
+┤@
+╰@@
+│@
+│@
+│@@
+╮@
+├@
+╯@@
+╭╮ @
+ ╰╯@
+   @@
+@
+@
+@@
+@
+@
+@@
+@
+@
+@@
+@
+@
+@@
+@
+@
+@@
+@
+@
+@@
+@
+@
+@@
+0x2002  EN SPACE, a half space
+$@
+$@
+$@@
+0xFE80  ARABIC LETTER HAMZA ISOLATED FORM
+  ╭╴@
+ ╶╯ @
+    @@
+0xFE81  ARABIC LETTER ALEF WITH MADDA ABOVE ISOLATED FORM
+ ╭┼╯@
+  ╵ @
+    @@
+0xFE82  ARABIC LETTER ALEF WITH MADDA ABOVE FINAL FORM
+ ╭┼╯@
+  └─@
+    @@
+0xFE83  ARABIC LETTER ALEF WITH HAMZA ABOVE ISOLATED FORM
+ ╭╴│@
+   ╵@
+    @@
+0xFE84  ARABIC LETTER ALEF WITH HAMZA ABOVE FINAL FORM
+ ╭╴│@
+   └@
+    @@
+0xFE85  ARABIC LETTER WAW WITH HAMZA ABOVE ISOLATED FORM
+ ╭╴╭╮@
+   ╰┤@
+  ╶─╯@@
+0xFE86  ARABIC LETTER WAW WITH HAMZA ABOVE FINAL FORM
+ ╭╴╭╮@
+   ╰┼@
+  ╶─╯@@
+0xFE87  ARABIC LETTER ALEF WITH HAMZA BELOW ISOLATED FORM
+  │@
+  ╵@
+ ╭╴@@
+0xFE88  ARABIC LETTER ALEF WITH HAMZA BELOW FINAL FORM
+  │@
+  └@
+ ╭╴@@
+0xFE89  ARABIC LETTER YEH WITH HAMZA ABOVE ISOLATED FORM
+  ╭╴ @
+ ╷  ╷@
+ ╰──╯@@
+0xFE8A  ARABIC LETTER YEH WITH HAMZA ABOVE FINAL FORM
+  ╭╴ @
+ ╷  ┌@
+ ╰──╯@@
+0xFE8B  ARABIC LETTER YEH WITH HAMZA ABOVE INITIAL FORM
+╭╴@
+─┘@
+  @@
+0xFE8C  ARABIC LETTER YEH WITH HAMZA ABOVE MEDIAL FORM
+╭╴@
+─┴@
+  @@
+0xFE8D  ARABIC LETTER ALEF ISOLATED FORM
+ │@
+ ╵@
+  @@
+0xFE8E  ARABIC LETTER ALEF FINAL FORM
+ │@
+ └@
+  @@
+0xFE8F  ARABIC LETTER BEH ISOLATED FORM
+     @
+ └──┘@
+  ·  @@
+0xFE90  ARABIC LETTER BEH FINAL FORM
+     @
+ └──┴@
+  ·  @@
+0xFE91  ARABIC LETTER BEH INITIAL FORM
+  @
+─┘@
+ ·@@
+0xFE92  ARABIC LETTER BEH MEDIAL FORM
+  @
+─┴@
+ ·@@
+0xFE93  ARABIC LETTER TEH MARBUTA ISOLATED FORM
+ ╭··╮@
+ ╰──╯@
+     @@
+0xFE94  ARABIC LETTER TEH MARBUTA FINAL FORM
+ ╭··╮ @
+ ╰──┴─@
+      @@
+0xFE95  ARABIC LETTER TEH ISOLATED FORM
+  ·· @
+ └──┘@
+     @@
+0xFE96  ARABIC LETTER TEH FINAL FORM
+  ·· @
+ └──┴@
+     @@
+0xFE97  ARABIC LETTER TEH INITIAL FORM
+ ··@
+──┘@
+   @@
+0xFE98  ARABIC LETTER TEH MEDIAL FORM
+ ··@
+──┴@
+   @@
+0xFE99  ARABIC LETTER THEH ISOLATED FORM
+  ···@
+ └──┘@
+     @@
+0xFE9A  ARABIC LETTER THEH FINAL FORM
+  ···@
+ └──┴@
+     @@
+0xFE9B  ARABIC LETTER THEH INITIAL FORM
+ ···@
+───┘@
+    @@
+0xFE9C  ARABIC LETTER THEH MEDIAL FORM
+ ···@
+───┴@
+    @@
+0xFE9D  ARABIC LETTER JEEM ISOLATED FORM
+ ╶──┐@
+ ╭──╯@
+ ╰·─╴@@
+0xFE9E  ARABIC LETTER JEEM FINAL FORM
+ ╶──┐@
+ ╭──┴@
+ ╰·─╴@@
+0xFE9F  ARABIC LETTER JEEM INITIAL FORM
+╶──┐@
+───┘@
+  · @@
+0xFEA0  ARABIC LETTER JEEM MEDIAL FORM
+╶──┐@
+───┴@
+  · @@
+0xFEA1  ARABIC LETTER HAH ISOLATED FORM
+ ╶──┐@
+ ╭──╯@
+ ╰──╴@@
+0xFEA2  ARABIC LETTER HAH FINAL FORM
+ ╶──┐@
+ ╭──┴@
+ ╰──╴@@
+0xFEA3  ARABIC LETTER HAH INITIAL FORM
+╶──┐@
+───┘@
+    @@
+0xFEA4  ARABIC LETTER HAH MEDIAL FORM
+╶──┐@
+───┴@
+    @@
+0xFEA5  ARABIC LETTER KHAH ISOLATED FORM
+ ╶·─┐@
+ ╭──╯@
+ ╰──╴@@
+0xFEA6  ARABIC LETTER KHAH FINAL FORM
+ ╶·─┐@
+ ╭──┴@
+ ╰──╴@@
+0xFEA7  ARABIC LETTER KHAH INITIAL FORM
+╶·─┐@
+───┘@
+    @@
+0xFEA8  ARABIC LETTER KHAH MEDIAL FORM
+╶·─┐@
+───┴@
+    @@
+0xFEA9  ARABIC LETTER DAL ISOLATED FORM
+  ╶╮@
+ ╶─╯@
+    @@
+0xFEAA  ARABIC LETTER DAL FINAL FORM
+  ╶╮@
+ ╶─┴@
+    @@
+0xFEAB  ARABIC LETTER THAL ISOLATED FORM
+ ·╶╮@
+ ╶─╯@
+    @@
+0xFEAC  ARABIC LETTER THAL FINAL FORM
+ ·╶╮@
+ ╶─┴@
+    @@
+0xFEAD  ARABIC LETTER REH ISOLATED FORM
+   @
+  ╷@
+ ╶╯@@
+0xFEAE  ARABIC LETTER REH FINAL FORM
+   @
+  ┌@
+ ╶╯@@
+0xFEAF  ARABIC LETTER ZAIN ISOLATED FORM
+  ·@
+  ╷@
+ ╶╯@@
+0xFEB0  ARABIC LETTER ZAIN FINAL FORM
+  ·@
+  ┌@
+ ╶╯@@
+0xFEB1  ARABIC LETTER SEEN ISOLATED FORM
+        @
+ ╷  ┌┴┴┘@
+ ╰──╯   @@
+0xFEB2  ARABIC LETTER SEEN FINAL FORM
+        @
+ ╷  ┌┴┴┴@
+ ╰──╯   @@
+0xFEB3  ARABIC LETTER SEEN INITIAL FORM
+    @
+─┴┴┘@
+    @@
+0xFEB4  ARABIC LETTER SEEN MEDIAL FORM
+    @
+─┴┴┴@
+    @@
+0xFEB5  ARABIC LETTER SHEEN ISOLATED FORM
+     ···@
+ ╷  ┌┴┴┘@
+ ╰──╯   @@
+0xFEB6  ARABIC LETTER SHEEN FINAL FORM
+     ···@
+ ╷  ┌┴┴┴@
+ ╰──╯   @@
+0xFEB7  ARABIC LETTER SHEEN INITIAL FORM
+ ···@
+─┴┴┘@
+    @@
+0xFEB8  ARABIC LETTER SHEEN MEDIAL FORM
+ ···@
+─┴┴┴@
+    @@
+0xFEB9  ARABIC LETTER SAD ISOLATED FORM
+      ╭──╮@
+ ╷  ┌┴┴──╯@
+ ╰──╯     @@
+0xFEBA  ARABIC LETTER SAD FINAL FORM
+      ╭──╮@
+ ╷  ┌┴┴──┴@
+ ╰──╯     @@
+0xFEBB  ARABIC LETTER SAD INITIAL FORM
+  ╭──╮@
+─┴┴──╯@
+      @@
+0xFEBC  ARABIC LETTER SAD MEDIAL FORM
+  ╭──╮@
+─┴┴──┴@
+      @@
+0xFEBD  ARABIC LETTER DAD ISOLATED FORM
+      ╭·─╮@
+ ╷  ┌┴┴──╯@
+ ╰──╯     @@
+0xFEBE  ARABIC LETTER DAD FINAL FORM
+      ╭·─╮@
+ ╷  ┌┴┴──┴@
+ ╰──╯     @@
+0xFEBF  ARABIC LETTER DAD INITIAL FORM
+  ╭·─╮@
+─┴┴──╯@
+      @@
+0xFEC0  ARABIC LETTER DAD MEDIAL FORM
+  ╭·─╮@
+─┴┴──┴@
+      @@
+0xFEC1  ARABIC LETTER TAH ISOLATED FORM
+  │╭─╮@
+ ╶┴┴─╯@
+      @@
+0xFEC2  ARABIC LETTER TAH FINAL FORM
+  │╭─╮@
+ ╶┴┴─┴@
+      @@
+0xFEC3  ARABIC LETTER TAH INITIAL FORM
+ │╭─╮@
+─┴┴─╯@
+     @@
+0xFEC4  ARABIC LETTER TAH MEDIAL FORM
+ │╭─╮@
+─┴┴─┴@
+     @@
+0xFEC5  ARABIC LETTER ZAH ISOLATED FORM
+  │╭·╮@
+ ╶┴┴─╯@
+      @@
+0xFEC6  ARABIC LETTER ZAH FINAL FORM
+  │╭·╮@
+ ╶┴┴─┴@
+      @@
+0xFEC7  ARABIC LETTER ZAH INITIAL FORM
+ │╭·╮@
+─┴┴─╯@
+     @@
+0xFEC8  ARABIC LETTER ZAH MEDIAL FORM
+ │╭·╮@
+─┴┴─┴@
+     @@
+0xFEC9  ARABIC LETTER AIN ISOLATED FORM
+  ╭╴ @
+ ╭┘  @
+ ╰──╴@@
+0xFECA  ARABIC LETTER AIN FINAL FORM
+  ╶┐┌╴@
+ ╭─┴┴─@
+ ╰──╴ @@
+0xFECB  ARABIC LETTER AIN INITIAL FORM
+ ╭─╴@
+─┴╴ @
+    @@
+0xFECC  ARABIC LETTER AIN MEDIAL FORM
+╶┐┌╴@
+─┴┴─@
+    @@
+0xFECD  ARABIC LETTER GHAIN ISOLATED FORM
+ ·╭╴ @
+ ╭┘  @
+ ╰──╴@@
+0xFECE  ARABIC LETTER GHAIN FINAL FORM
+ ·╶┐┌╴@
+ ╭─┴┴─@
+ ╰──╴ @@
+0xFECF  ARABIC LETTER GHAIN INITIAL FORM
+·╭─╴@
+─┴╴ @
+    @@
+0xFED0  ARABIC LETTER GHAIN MEDIAL FORM
+·┐┌╴@
+─┴┴─@
+    @@
+0xFED1  ARABIC LETTER FEH ISOLATED FORM
+      ╭·╮@
+ └────┴─╯@
+         @@
+0xFED2  ARABIC LETTER FEH FINAL FORM
+      ╭·╮@
+ └────┴─┴@
+         @@
+0xFED3  ARABIC LETTER FEH INITIAL FORM
+ ╭·╮@
+─┴─╯@
+    @@
+0xFED4  ARABIC LETTER FEH MEDIAL FORM
+ ╭·╮@
+─┴─┴@
+    @@
+0xFED5  ARABIC LETTER QAF ISOLATED FORM
+     ╭··╮@
+ ╷  ┌┴──╯@
+ ╰──╯    @@
+0xFED6  ARABIC LETTER QAF FINAL FORM
+     ╭··╮@
+ ╷  ┌┴──┴@
+ ╰──╯    @@
+0xFED7  ARABIC LETTER QAF INITIAL FORM
+ ╭··╮@
+─┴──╯@
+     @@
+0xFED8  ARABIC LETTER QAF MEDIAL FORM
+ ╭··╮@
+─┴──┴@
+     @@
+0xFED9  ARABIC LETTER KAF ISOLATED FORM
+  ╶╴│@
+ └──┘@
+     @@
+0xFEDA  ARABIC LETTER KAF FINAL FORM
+  ╶╴│@
+ └──┴@
+     @@
+0xFEDB  ARABIC LETTER KAF INITIAL FORM
+ ╲ @
+──┘@
+   @@
+0xFEDC  ARABIC LETTER KAF MEDIAL FORM
+ ╲ @
+──┴@
+   @@
+0xFEDD  ARABIC LETTER LAM ISOLATED FORM
+    │@
+ ╷  │@
+ ╰──╯@@
+0xFEDE  ARABIC LETTER LAM FINAL FORM
+    │@
+ ╷  ├@
+ ╰──╯@@
+0xFEDF  ARABIC LETTER LAM INITIAL FORM
+ │@
+─┘@
+  @@
+0xFEE0  ARABIC LETTER LAM MEDIAL FORM
+ │@
+─┴@
+  @@
+0xFEE1  ARABIC LETTER MEEM ISOLATED FORM
+  ╭╮@
+ ┌┴╯@
+ ╵  @@
+0xFEE2  ARABIC LETTER MEEM FINAL FORM
+  ╭╮@
+ ┌┴┴@
+ ╵  @@
+0xFEE3  ARABIC LETTER MEEM INITIAL FORM
+ ╭╮@
+─┴╯@
+   @@
+0xFEE4  ARABIC LETTER MEEM MEDIAL FORM
+ ╭╮@
+─┴┴@
+   @@
+0xFEE5  ARABIC LETTER NOON ISOLATED FORM
+   · @
+ ╷  ╷@
+ ╰──╯@@
+0xFEE6  ARABIC LETTER NOON FINAL FORM
+   · @
+ ╷  ┌@
+ ╰──╯@@
+0xFEE7  ARABIC LETTER NOON INITIAL FORM
+ ·@
+─┘@
+  @@
+0xFEE8  ARABIC LETTER NOON MEDIAL FORM
+ ·@
+─┴@
+  @@
+0xFEE9  ARABIC LETTER HEH ISOLATED FORM
+ ╭─╮@
+ ╰─╯@
+    @@
+0xFEEA  ARABIC LETTER HEH FINAL FORM
+ ╭─╮ @
+ ╰─┴─@
+     @@
+0xFEEB  ARABIC LETTER HEH INITIAL FORM
+ ╭┬╮@
+─┴┴╯@
+    @@
+0xFEEC  ARABIC LETTER HEH MEDIAL FORM
+ ╭┬╮@
+─┴┴┴@
+    @@
+0xFEED  ARABIC LETTER WAW ISOLATED FORM
+  ╭╮@
+  ╰┤@
+ ╶─╯@@
+0xFEEE  ARABIC LETTER WAW FINAL FORM
+  ╭╮@
+  ╰┼@
+ ╶─╯@@
+0xFEEF  ARABIC LETTER ALEF MAKSURA ISOLATED FORM
+    ╶╮@
+ ╷  ╭╯@
+ ╰──╯ @@
+0xFEF0  ARABIC LETTER ALEF MAKSURA FINAL FORM
+     @
+ ╷  ┌@
+ ╰──╯@@
+0xFEF1  ARABIC LETTER YEH ISOLATED FORM
+    ╶╮@
+ ╷··╭╯@
+ ╰──╯ @@
+0xFEF2  ARABIC LETTER YEH FINAL FORM
+     @
+ ╷··┌@
+ ╰──╯@@
+0xFEF3  ARABIC LETTER YEH INITIAL FORM
+   @
+──┘@
+ ··@@
+0xFEF4  ARABIC LETTER YEH MEDIAL FORM
+   @
+──┴@
+ ··@@
+0xFEF5  ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE ISOLATED FORM
+ ─╲│@
+ ╰─╯@
+    @@
+0xFEF6  ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE FINAL FORM
+ ─╲│@
+ ╰─┴@
+    @@
+0xFEF7  ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE ISOLATED FORM
+ ╭╴│@
+  ─╯@
+    @@
+0xFEF8  ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE FINAL FORM
+ ╭╴│@
+  ─┴@
+    @@
+0xFEF9  ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW ISOLATED FORM
+ ╲ │@
+ ╰─╯@
+ ╭╴ @@
+0xFEFA  ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW FINAL FORM
+ ╲ │@
+ ╰─┴@
+ ╭╴ @@
+0xFEFB  ARABIC LIGATURE LAM WITH ALEF ISOLATED FORM
+ ╲ │@
+ ╰─╯@
+    @@
+0xFEFC  ARABIC LIGATURE LAM WITH ALEF FINAL FORM
+ ╲ │@
+ ╰─┴@
+    @@
